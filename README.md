@@ -1,6 +1,6 @@
 # hello-world
 
-<!-- Time-stamp: "2020-12-28T21:12:14Z" -->
+<!-- Time-stamp: "2020-12-28T21:21:27Z" -->
 
 レポジトリを作るテスト。[リンク１](http://jrf.cocolog-nifty.com/)
 [リンク２][リンク３]
@@ -27,7 +27,7 @@ http://jrf.cocolog-nifty.com/statuses/
 空行のテスト。
 
   
-テスト2。
+テスト3。
 
 ---
 (This file was written in Japanese/UTF8.)
